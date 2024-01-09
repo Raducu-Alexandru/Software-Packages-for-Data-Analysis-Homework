@@ -6,7 +6,7 @@ source .venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-And then open the Jupyter Notebook and Run All
+And then open the Jupyter Notebook select the new .venv Kernel and Run All
 
 # Problem set 1
 
