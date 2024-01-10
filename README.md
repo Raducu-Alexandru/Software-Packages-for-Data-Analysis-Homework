@@ -18,12 +18,12 @@ And then open the Jupyter Notebook select the new .venv Kernel and Run All
 2.  Explore patient data to identify trends in diseases, treatment
     effectiveness, or healthcare resource utilization.
 
-> Dataset: <https://www.hcup-us.ahrq.gov/>
+> <span style="color:red"> Dataset: <https://www.hcup-us.ahrq.gov/> (NOT WORKING) </span>
 
 3.  Analyze historical stock prices to identify market trends,
     volatilities, and potential investment opportunities.
 
-> Dataset: Yahoo Finance or Quandl
+> <span style="color:red"> Dataset: Yahoo Finance or Quandl (DID NOT FIND) </span>
 
 # Problem set 2
 
@@ -36,7 +36,7 @@ And then open the Jupyter Notebook select the new .venv Kernel and Run All
 2.  Analyse crime data to identify patterns, hot spots, and effective
     prevention strategies.
 
-> Dataset: <https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home>
+> <span style="color:red"> Dataset: <https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home> (DID NOT FIND RELEVANT ONE) </span>
 
 # Problem set 3
 
